@@ -1,0 +1,23 @@
+.table {
+    color: red;
+  }
+  .table table {
+    border-collapse: collapse;
+    border: 1px solid #5a9bd5;
+    text-align: left;
+    background-color: #fff;
+    color: #000;
+  }
+  .table th {
+    color: #fff;
+  }
+  .bg-biru {
+    background-color: #5a9bd5;
+  }
+  .bg-birmud {
+    background-color: #deeaf6;
+  }
+  .text-bold {
+    font-weight: bold;
+  }
+ 
