@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: beige;
+}
+.kotak{
+    height: 230xpx;
+    border: 3px solid black;
+    width: 200px;
+}
